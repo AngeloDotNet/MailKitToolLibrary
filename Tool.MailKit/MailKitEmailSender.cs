@@ -1,10 +1,10 @@
-﻿using GestioneSagre.Tools.MailKit.Options;
-using MailKit.Net.Smtp;
+﻿using MailKit.Net.Smtp;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using MimeKit;
+using Tool.MailKit.Options;
 
-namespace GestioneSagre.Tools.MailKit;
+namespace Tool.MailKit;
 
 public class MailKitEmailSender : IEmailClient
 {

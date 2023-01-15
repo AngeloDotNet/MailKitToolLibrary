@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.UI.Services;
 
-namespace GestioneSagre.Tools.MailKit;
+namespace Tool.MailKit;
 
 public interface IEmailClient : IEmailSender
 {
