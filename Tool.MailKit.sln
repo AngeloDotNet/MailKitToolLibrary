@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool.MailKit", "Tool.MailKit\Tool.MailKit.csproj", "{48B1570F-218E-4529-904A-0FBEF93AED68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B1570F-218E-4529-904A-0FBEF93AED68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B1570F-218E-4529-904A-0FBEF93AED68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B1570F-218E-4529-904A-0FBEF93AED68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B1570F-218E-4529-904A-0FBEF93AED68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D7628F-943C-41A0-A85F-769C7F98C363}
+	EndGlobalSection
+EndGlobal
